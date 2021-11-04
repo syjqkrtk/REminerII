@@ -1,0 +1,35 @@
+
+
+************************************************************************
+REMiner Ver.2 (START) : 8/12, 23:35:23
+    Make Qry File (START) : 8/12, 23:35:23
+    Make Qry File ( END ) : 8/12, 23:35:23 (0)
+    Get Data (START) : 8/12, 23:35:23
+    Get Data ( END ) : 8/12, 23:35:23 (0)
+  Preprocessing (START) : 8/12, 23:35:23
+    Case Matching (START) : 8/12, 23:35:23
+    Case Matching ( END ) : 8/12, 23:35:23 (0)
+    Low Complexity Filtering (START) : 8/12, 23:35:23
+    Low Complexity Filtering ( END ) : 8/12, 23:35:23 (0)
+    Reverse Complement (START) : 8/12, 23:35:23
+    Reverse Complement ( END ) : 8/12, 23:35:23 (0)
+  Preprocessing ( END ) : 8/12, 23:35:23 (0)
+  Seeding & Extension (START) : 8/12, 23:35:23
+    Word Matching (START) : 8/12, 23:35:24
+    Word Matching ( END ) : 8/12, 23:35:24 (0)
+    Seeding & Extension (Query) (START) : 8/12, 23:35:24
+    Seeding & Extension (Query) ( END ) : 8/12, 23:35:36 (12)
+    Seeding & Extension (RC) (START) : 8/12, 23:35:36
+    Seeding & Extension (RC) ( END ) : 8/12, 23:35:48 (12)
+  Seeding & Extension ( END ) : 8/12, 23:35:48 (25)
+REMiner Ver.2 ( END ) : 8/12, 23:35:48 (25)
+
+Input File Name: D:\Dropbox\Development\REminerII\sequence\Ecoli_0_0.txt
+Input Data Length: 5265816 Bytes
+W: 14, m: 1, SP: 2, L: 28
+SCORE: Match (1), Mismatch (-2), Threshold (-10), X (30)
+Filtering: Window Size (20), Score Threshold (0.60)
+Time Log Length: 1062 Bytes (MAX: 2048 Bytes)
+************************************************************************
+
+

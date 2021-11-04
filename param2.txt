@@ -1,0 +1,7 @@
+REM_FILE	result.rem	 	// rem file
+MAX_DIFF	20000		// 최대 차이값
+SEQ_LINE	60		//  seq를 보여주는 라인 길이
+ALIGN_PATH	Ecoli\Ecoli_0_0		// alignment 결과파일을 생성할 디렉토리
+ALIGN_SIZE	6000000		// alignment 결과파일 정리를 위한 기본 지역 크기
+ALIGN_LENGTH	1000000		// alignment 결과파일 정리를 위한 기본 alignment 길이
+ALIGN_MAX	1000000		// alignment 결과파일 정리를 위한 최대 alignment 길이
